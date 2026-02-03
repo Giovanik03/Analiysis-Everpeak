@@ -14,7 +14,8 @@ y problemas de calidad diseñados para simular datos reales del retail. :content
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB)
+[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/drive/1JxEUpV9-othkmbigSZTzyxkbF_-rDiy5?usp=sharing))] 
+[Open In Github].[(https://github.com/Giovanik03/Analiysis-Everpeak/blob/main/EverPeak_Sprint_7.ipynb)]
 
 O:
 
